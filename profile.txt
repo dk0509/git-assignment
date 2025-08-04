@@ -1,2 +1,3 @@
 Devansh Agrawal
 Firozabad
+Skils: Python,Django
